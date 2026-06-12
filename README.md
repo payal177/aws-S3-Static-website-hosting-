@@ -29,6 +29,7 @@ User Browser → Amazon S3 Bucket → Static Website
 * File Upload
 * Static Website Hosting Configuration
 * Bucket Policy
+* Website Output
 
 ## Outcome
 
@@ -43,5 +44,5 @@ Successfully hosted a static website on Amazon S3 and made it accessible through
 * AWS Management Console
 * Website Deployment
 
-Project Output :
+Website Output :
 <img width="1354" height="325" alt="image" src="https://github.com/user-attachments/assets/45049139-be5a-49fa-9335-4e0a9e7c10a3" />
